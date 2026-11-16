@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "syncalbert.aternos.me",
+    "ip": "syncalbert.aternos.me:60227",
     "port": 27586,
     "version": "",
     "try-creative": false
